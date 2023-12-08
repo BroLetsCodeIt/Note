@@ -1,8 +1,12 @@
-# React + Vite
+# NoteX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### **NoteX is a simple website where we can note something.**
+### **Special Part of this website is we can drag the cards.** 
 
-Currently, two official plugins are available:
+![image](https://github.com/BroLetsCodeIt/Note/assets/113767803/264c8e04-4973-4a00-b11d-3823883a7d4e)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+https://github.com/BroLetsCodeIt/Note/assets/113767803/ec5cc369-0333-4a6d-be7e-c5cbf23ef0d7
+
