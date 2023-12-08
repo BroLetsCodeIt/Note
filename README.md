@@ -10,3 +10,6 @@
 
 https://github.com/BroLetsCodeIt/Note/assets/113767803/ec5cc369-0333-4a6d-be7e-c5cbf23ef0d7
 
+- Animation is created using **Framer Motion**
+
+If you LIke it ❤️, please don't forget to give it a star 🌟
